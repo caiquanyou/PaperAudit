@@ -1,0 +1,2 @@
+-r desktop_app/requirements.txt
+pypdf==6.10.0

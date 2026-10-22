@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build/
+build/
+dist/
+release/
+output/
+references/
+prototype/
+文献查重与学术诚信_项目汇总_20261021*/
+*.db
+*.sqlite*
+.env*
+*.key
+*.log
